@@ -19,7 +19,7 @@
     %>
     <base href="<%=basePath%>">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>菜品修改(根据菜品ID进行修改)</title>
+    <title>菜品修改(根据菜品ID来进行修改)</title>
     <style type="text/css">
 
     </style>
